@@ -9,10 +9,9 @@
 
     <ImageView
         android:id="@+id/randomImageView"
-        android:layout_width="436dp"
-        android:layout_height="474dp"
-        android:layout_marginTop="0dp"
-        android:background="@color/black"
+        android:layout_width="363dp"
+        android:layout_height="275dp"
+        android:layout_marginTop="220dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
